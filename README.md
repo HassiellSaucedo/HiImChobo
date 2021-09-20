@@ -4,13 +4,13 @@ I love everything related to technology, music and videogames, also I'm curretly
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/hassiell-saucedo-7a4a12209/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487910%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 55 Contributions in the Year 2021
+> 🏆 60 Contributions in the Year 2021
  > 
 > 📦 39.7 kB Used in Github's Storage 
  > 
@@ -47,16 +47,23 @@ Sunday       9 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 47 mins             ████████░░░░░░░░░░░░░░░░░   32.93% 
+YAML                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12% 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 23 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CRUD                     1 hr 30 mins        ███████████████░░░░░░░░░░   62.69% 
+HiImChobo                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+css                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Aprendiendo-CSS          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +80,5 @@ Handlebars               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2021
+ Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
