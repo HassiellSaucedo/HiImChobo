@@ -4,15 +4,15 @@ I love everything related to technology, music and videogames, also I'm curretly
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/hassiell-saucedo-7a4a12209/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487910%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-488018%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 60 Contributions in the Year 2021
+> 🏆 62 Contributions in the Year 2021
  > 
-> 📦 39.8 kB Used in Github's Storage 
+> 📦 39.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -23,22 +23,22 @@ I love everything related to technology, music and videogames, also I'm curretly
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-🌆 Daytime    16 commits     ███████░░░░░░░░░░░░░░░░░░   29.63% 
-🌃 Evening    29 commits     █████████████░░░░░░░░░░░░   53.7% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    18 commits     ████████░░░░░░░░░░░░░░░░░   32.14% 
+🌃 Evening    29 commits     █████████████░░░░░░░░░░░░   51.79% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Wednesday    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Thursday     7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Saturday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Sunday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Monday       13 commits     █████░░░░░░░░░░░░░░░░░░░░   23.21% 
+Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Wednesday    12 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Thursday     7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Saturday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Sunday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.07%
 
 ```
 
@@ -81,5 +81,5 @@ Handlebars               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
