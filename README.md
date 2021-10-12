@@ -47,16 +47,16 @@ Sunday       9 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DiscordBot1              44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +73,5 @@ Handlebars               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
