@@ -12,7 +12,7 @@ I love everything related to technology, music and videogames, also I'm curretly
 
 > 🏆 62 Contributions in the Year 2021
  > 
-> 📦 39.8 kB Used in GitHub's Storage 
+> 📦 39.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -73,5 +73,5 @@ Handlebars               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
